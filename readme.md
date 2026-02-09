@@ -3,7 +3,7 @@
 Automatically reopens your last Roblox Studio project after crashes.
 
 <p align="center">
-  <a href="https://github.com/OWNER/REPO/releases/latest">
+  <a href="https://github.com/Egestic1111/studio-watchdog/releases/latest">
     <b>Download latest (StudioWatchdog.exe)</b>
   </a>
 </p>
