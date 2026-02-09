@@ -56,5 +56,7 @@ To verify the file was not corrupted or replaced, check its SHA256 hash.
    `Get-FileHash .\StudioWatchdog.exe -Algorithm SHA256`
 3. Compare the `Hash` value with the SHA256 listed in the release
 
+StudioWatchdog.exe: 434705ECCEE8C4E55AB19CEBA8787DB81FA4524E3FF0357987AF8AE09E9911E0
+
 ## Disclaimer
 Not affiliated with Roblox.
