@@ -10,7 +10,6 @@ Automatically reopens your last Roblox Studio project after crashes.
 
 <p align="center">
   <img src="screenshots/Preview.jpg" width="420" alt="Studio Watchdog preview" />
-  <img src="screenshots/Mode_1.jpg" width="420" alt="Studio Watchdog mode" />
 </p>
 
 ## What It Does
@@ -30,6 +29,16 @@ Automatically reopens your last Roblox Studio project after crashes.
 ## How It Works
 - A Roblox Studio plugin sends the current project context to a local API
 - Local API is bound to `127.0.0.1` only
+
+## Themes
+Studio Watchdog includes 3 built-in themes:
+- Light
+- Dark
+- Gaming
+
+<p align="center">
+  <img src="screenshots/Mode_1.jpg" width="900" alt="Themes (Light / Dark / Gaming)" />
+</p>
 
 ## Licensing
 - Free auto-restarts: 6 per device
