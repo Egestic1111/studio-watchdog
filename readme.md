@@ -16,7 +16,7 @@ Automatically reopens your last Roblox Studio project after crashes.
 - Monitors `RobloxStudioBeta.exe`
 - After a crash, reopens the last project:
   - Local `.rbxl/.rbxlx` from your selected folder
-  - Cloud places via `placeId`
+  - Cloud places
 - Tray status:
   - Green = idle
   - Red = monitoring
@@ -60,3 +60,4 @@ StudioWatchdog.exe: 434705ECCEE8C4E55AB19CEBA8787DB81FA4524E3FF0357987AF8AE09E99
 
 ## Disclaimer
 Not affiliated with Roblox.
+
